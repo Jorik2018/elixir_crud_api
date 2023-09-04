@@ -25,3 +25,4 @@ mix ecto.migrate
 mix phx.gen.controller Directory People people first_name:string last_name:string
 
 https://www.youtube.com/watch?v=4_CuT8oP5Ss
+https://github.com/ElixirMentor/real_deal_api
